@@ -18,6 +18,6 @@ connection.on('error', function(err) {
 var client = thrift.createClient(HolaServicio, connection);
 
 client.hola_func(function(err, response) {
-  console.log(response);
+  console.log("[Cliente] Se recibio " + response);
   connection.end();
 });

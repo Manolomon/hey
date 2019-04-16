@@ -10,7 +10,7 @@ class HolaHandle
 
   def hola_func()
     puts("[Servidor] Atendiendo la solicitud del cliente")
-    return "Hola desde el servidor python"
+    return "Hola desde el servidor ruby"
   end
 
 end
