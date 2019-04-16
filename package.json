@@ -1,0 +1,23 @@
+{
+  "name": "thrift-hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hola_cliente.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manolomon/hey.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manolomon/hey/issues"
+  },
+  "homepage": "https://github.com/Manolomon/hey#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "thrift": "^0.12.0"
+  }
+}
