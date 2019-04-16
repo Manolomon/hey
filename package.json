@@ -1,23 +1,22 @@
 {
   "name": "thrift-hello-world",
   "version": "1.0.0",
-  "description": "",
+  "description": "Apache Thrift Multi-Language Hello World!",
   "main": "hola_cliente.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Manolomon/hey.git"
+    "url": "git+https://github.com/Manolomon/thrift-hello-world.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Manolomon",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Manolomon/hey/issues"
+    "url": "https://github.com/Manolomon/thrift-hello-world/issues"
   },
-  "homepage": "https://github.com/Manolomon/hey#readme",
+  "homepage": "https://github.com/Manolomon/thrift-hello-world#readme",
   "dependencies": {
-    "express": "^4.16.4",
     "thrift": "^0.12.0"
   }
 }
